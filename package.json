@@ -1,0 +1,25 @@
+{
+  "name": "produto",
+  "version": "1.0.0",
+  "description": "",
+   "main": "server.js",
+  "scripts": {
+     "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gi0hunter/produto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gi0hunter/produto/issues"
+  },
+  "homepage": "https://github.com/gi0hunter/produto#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
